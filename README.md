@@ -48,8 +48,8 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/deepllvm.git
-   cd deepllvm
+   git clone https://github.com/MayankShrivastava17/LLVM-based-Machine-Learning-Optimizer.git
+   cd LLVM-based-Machine-Learning-Optimizer
    ```
 
 2. **Create a Virtual Environment** (Optional but Recommended):
